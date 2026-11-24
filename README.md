@@ -1,4 +1,5 @@
-# computer programming midterm activities 1-10
+# computer programming 1st semester activities 1-10
+this was submitted on October 18 2024
 
-- midterm activities 1-10
-- [final activities 1-6](comprog-final-activity-1-6)
+- 1st semester activities 1-10
+- [2nd semester activities 1-6](https://github.com/IMOitself/comprog-2ndsem-activity-1-6)
